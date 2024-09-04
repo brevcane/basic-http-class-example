@@ -1,0 +1,13 @@
+{
+  "name": "basic-http-class-example",
+  "version": "1.0.0",
+  "description": "a basic http server",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brevin Horton",
+  "license": "UNLICENSED"
+}
